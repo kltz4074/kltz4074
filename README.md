@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **c++ and rust**
 
-- 👨‍💻 All of my projects are available at [kltz4074.github.io](kltz4074.github.io)
+- 👨‍💻 All of my projects are available at [here](https://kltz4074.github.io/)
 
 - ⚡ Fun fact **i'm 13 year's old**
 
