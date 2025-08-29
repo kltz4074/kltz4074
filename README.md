@@ -1,28 +1,98 @@
-<h1 align="center">Hi 👋, I'm kltzqu</h1>
-<h3 align="center">A passionate fullstack & software enginer developer from israel</h3>
+<!-- Profile README for kltz4074 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kltz4074&label=Profile%20views&color=0e75b6&style=flat" alt="kltz4074" /> </p>
-
-- 🌱 I’m currently learning **c++ and rust**
-
-- 👨‍💻 All of my projects are available at [here](https://kltz4074.github.io/)
-
-- ⚡ Fun fact **i'm 13 year's old**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/kltz4074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/kltz4074" height="30" width="40" /></a>
-<a href="https://discord.gg/aJ8D3nvW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.com/users/912789766557286421" height="30" width="40" /></a>
+<h1 align="center">Hi 👋, I'm kltz4074</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&width=435&lines=13+year+old+Fullstack+%2F+Software+Developer;C%23%2C+Python%2C+Unity+Enthusiast;Arch+Linux+%7C+Hyprland+User;Learning+UI%2FUX+Design+%26+More" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/https://ko-fi.com/kltzqu"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/kltzqu" /></a></p><br><br>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kltz4074&show_icons=true&locale=en&layout=compact" alt="kltz4074" /></p>
+- 🧑‍🎓 **Age:** 13 years old
+- 🚀 Aspiring **Fullstack/Software Developer**
+- 🖥️ **Setup:** Customized Arch Linux (Hyprland)
+- 🎨 Currently diving into **UI/UX Design**
+- 🌍 I speak: **Russian, English, Hebrew**
 
+#### 🛠️ Skills
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kltz4074&" alt="kltzqu" /></p>
+- **Know:** Bash, C#, Figma, Git, Linux, Python, Unity
+- **Learning:** Arduino, Rust, C++, Java, Node.js
 
+---
+
+### 🌐 Connect with Me
+
+<a href="https://kltz4074.github.io/">
+  <img src="https://img.shields.io/badge/website-kltz4074.github.io-00bfff?style=flat" />
+</a>
+<a href="https://t.me/Kltzqu">
+  <img src="https://img.shields.io/badge/Telegram-Kltzqu-0088cc?style=flat&logo=telegram" />
+</a>
+<a href="mailto:kltzqu@gmail.com">
+  <img src="https://img.shields.io/badge/email-kltzqu@gmail.com-blue?style=flat" />
+</a>
+<a href="https://t.me/kltzqqu">
+  <img src="https://img.shields.io/badge/Telegram%20Channel-kltzqqu-0088cc?style=flat&logo=telegram" />
+</a>
+
+- 🕹️ Discord: `@kltzqu`
+
+---
+
+### 🚩 Featured Projects
+
+- [KLANG](https://github.com/kltz4074/KLANG)
+- [create-cardboard-1.20.1](https://github.com/kltz4074/create-cardboard-1.20.1)
+- [WebCum](https://github.com/kltz4074/WebCum)
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kltz4074&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kltz4074&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kltz4074&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+### 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kltz4074&label=Profile+views&color=00bfff&style=flat" alt="Profile Visitors" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+I love exploring new technologies and am always excited to learn something new!
+
+---
+
+<!-- Feel free to customize this README further as you add more projects, skills, or interests! -->
