@@ -17,8 +17,8 @@
 
 #### 🛠️ Skills
 
-- **Know:** Bash, C#, Figma, Git, Linux, Python, Unity
-- **Learning:** Arduino, Rust, C++, Java, Node.js
+- **Know:** Bash, C#, Figma, Git, Linux, Python, Unity, java
+- **Learning:** Arduino, Rust, C++, Node.js
 
 ---
 
