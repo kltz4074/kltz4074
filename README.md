@@ -83,8 +83,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
 <p align="center">
   <img src="github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
 </p>
