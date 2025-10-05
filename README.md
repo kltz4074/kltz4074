@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm kltz4074</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&width=435&lines=Fullstack+%2F+Software+Developer;C%23%2C+Python%2C+Unity+Enthusiast;Arch+Linux+%7C+Hyprland+User;Learning+UI%2FUX+Design+%26+More" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&width=435&lines=%2F+Software+Developer;C%23%2C+Python%2C+Unity+Enthusiast;Arch+Linux+%7C+Hyprland+User;Learning+UI%2FUX+Design+%26+More" alt="Typing SVG" />
 </p>
 
 ---
