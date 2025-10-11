@@ -89,10 +89,6 @@
 
 ---
 
-### ⚡ Fun Fact
-
-I love exploring new technologies and am always excited to learn something new!
+I love exploring new technologies and am always excited to learn something new ^_^
 
 ---
-
-<!-- Feel free to customize this README further as you add more projects, skills, or interests! -->
