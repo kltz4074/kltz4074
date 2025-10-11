@@ -10,15 +10,15 @@
 ### 👨‍💻 About Me
 
 - 🧑‍🎓 **Age:** 13 years old
-- 🚀 Aspiring **Fullstack/Software Developer**
+- 🚀 Aspiring **Software Developper / engineer / web deisgner**
 - 🖥️ **Setup:** Customized Arch Linux (Hyprland)
 - 🎨 Currently diving into **UI/UX Design**
 - 🌍 I speak: **Russian, English, Hebrew**
 
 #### 🛠️ Skills
 
-- **Know:** Bash, C#, Figma, Git, Linux, Python, Unity, java, c/c++
-- **Learning:** Arduino
+- **Know:** Bash, C#, Figma, Git, Python, Unity, java, c/c++
+- **Learning:** nothing 0-0
 
 ### 🌐 Connect with Me
 
@@ -41,12 +41,12 @@
 
 ### 🚩 Featured Projects
 
-- [KLANG](https://github.com/kltz4074/KLANG)
-- [create-cardboard-1.20.1](https://github.com/kltz4074/create-cardboard-1.20.1)
-- [WebCum](https://github.com/kltz4074/WebCum)
-- [KLTOOL](https://github.com/kltz4074/KLTOOL)
-- [partfolio website](https://github.com/kltz4074/kltz4074.github.io)
-- [robotAI](https://github.com/kltz4074/RobotAI)
+- [KLANG](https://github.com/kltz4074/KLANG) - my own programming language on python
+- [create-cardboard-1.20.1](https://github.com/kltz4074/create-cardboard-1.20.1) - mod that adds cardboard from forge 1.20.1 to fabric
+- [WebCum](https://github.com/kltz4074/WebCum) - mod that add player's camera over the player
+- [KLTOOL](https://github.com/kltz4074/KLTOOL) - multitool (my first written app)
+- [partfolio website](https://github.com/kltz4074/kltz4074.github.io) - my partfolio website
+- [robotAI](https://github.com/kltz4074/RobotAI) - brain of AI robot
   
 
 ---
