@@ -17,8 +17,8 @@
 
 #### 🛠️ Skills
 
-- **Know:** Bash, C#, Figma, Git, Python, Unity, java, c/c++
-- **Learning:** nothing 0-0
+- **Know:** Bash, C#, Figma, Git, Python, Unity, java
+- **Learning:** c++
 
 ### 🌐 Connect with Me
 
