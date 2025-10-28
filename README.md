@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm kltz4074</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&width=435&lines=%2F+Software+Developer;C%23%2C+Python%2C+Unity+Enthusiast;Arch+Linux+%7C+Hyprland+User;Learning+UI%2FUX+Design+%26+More" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&random=true&width=435&lines=software+dev+%7C+web+designer;c%2B%2B%2C+java%2C+python;Unity%2C+Godot%2C+PointEngine" alt="Typing SVG" /></a>
 </p>
 
 ---
