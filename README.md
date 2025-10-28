@@ -11,8 +11,8 @@
 
 - 🧑‍🎓 **Age:** 13 years old
 - 🚀 Aspiring **Software Developper / engineer / web deisgner**
-- 🖥️ **Setup:** Customized Arch Linux (Hyprland)
-- 🎨 Currently diving into **UI/UX Design**
+- 🖥️ **Setup:** Customized Arch Linux (Hyprland), windows 11, debian (just terminal)
+- 🎨 Currently diving into c++ openGL
 - 🌍 I speak: **Russian, English, Hebrew**
 
 #### 🛠️ Skills
@@ -48,7 +48,7 @@
 - [partfolio website](https://github.com/kltz4074/kltz4074.github.io) - my partfolio website
 - [robotAI](https://github.com/kltz4074/RobotAI) - brain of AI robot
 - [pyPointEngine](https://github.com/kltz4074/pyPointEngine) - 3D engine on python pyOpenGL
-- [PointEngine](https://github.com/kltz4074/PointEngine) - 3D engine on java OpenGL
+- [PointEngine](https://github.com/kltz4074/PointEngine) - 3D engine on c++ OpenGL
   
 
 ---
