@@ -1,26 +1,26 @@
 <!-- Profile README for kltz4074 -->
 
-<h1 align="center">Hi 👋, I'm kltz4074</h1>
+<h1 align="center">Hi , I'm kltz4074</h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&random=true&width=435&lines=software+dev+%7C+web+designer;c%2B%2B%2C+java%2C+python;Unity%2C+Godot%2C+PointEngine" alt="Typing SVG" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-- 🧑‍🎓 **Age:** 13 years old
-- 🚀 Aspiring **Software Developper / engineer / web deisgner**
-- 🖥️ **Setup:** Customized Arch Linux (Hyprland), windows 11, debian (just terminal)
-- 🎨 Currently diving into c++ openGL
-- 🌍 I speak: **Russian, English, Hebrew**
+- **Age:** 13 years old
+-  Aspiring **Software Developper / engineer / web deisgner**
+-  **Setup:** Customized Arch Linux (Hyprland), windows 11, debian (just terminal)
+-  Currently diving into c++ openGL
+-  I speak: **Russian, English, Hebrew**
 
-#### 🛠️ Skills
+#### Skills
 
 - **Know:** Bash, C#, Figma, Git, Python, Unity, java
 - **Learning:** c++
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <a href="https://kltz4074.github.io/">
   <img src="https://img.shields.io/badge/website-kltz4074.github.io-00bfff?style=flat" />
@@ -39,7 +39,7 @@
 
 ---
 
-### 🚩 Featured Projects
+### Featured Projects
 
 - [KLANG](https://github.com/kltz4074/KLANG) - my own programming language on python
 - [create-cardboard-1.20.1](https://github.com/kltz4074/create-cardboard-1.20.1) - mod that adds cardboard from forge 1.20.1 to fabric
@@ -50,18 +50,9 @@
 - [pyPointEngine](https://github.com/kltz4074/pyPointEngine) - 3D engine on python pyOpenGL
 - [PointEngine](https://github.com/kltz4074/PointEngine) - 3D engine on c++ OpenGL
   
-
 ---
 
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kltz4074&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 Most Used Languages
+### Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kltz4074&layout=compact&theme=tokyonight" alt="Most Used Languages" />
@@ -69,7 +60,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kltz4074&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -77,7 +68,7 @@
 
 ---
 
-### 👀 Profile Visitors
+### Profile Visitors
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kltz4074&label=Profile+views&color=00bfff&style=flat" alt="Profile Visitors" />
