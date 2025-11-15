@@ -52,23 +52,14 @@
   
 ---
 
-### Most Used Languages
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kltz4074&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
----
-
-### GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kltz4074&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kltz4074&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kltz4074&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
-
----
-
-### Profile Visitors
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kltz4074&label=Profile+views&color=00bfff&style=flat" alt="Profile Visitors" />
