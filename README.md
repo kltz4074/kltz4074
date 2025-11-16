@@ -57,8 +57,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kltz4074&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kltz4074&theme=tokyonight" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=kltz4074&show_icons=true&theme=tokyonight" alt="GitHub Stats"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kltz4074&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
