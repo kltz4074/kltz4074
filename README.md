@@ -9,7 +9,7 @@
 
 ###  About Me
 
-- **Age:** 13 years old
+- **Age:** 14 years old
 -  Aspiring **Software Developper / engineer / web deisgner**
 -  **Setup:** Customized Arch Linux (Hyprland), windows 11, debian (just terminal)
 -  Currently diving into c++ openGL
