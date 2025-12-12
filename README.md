@@ -17,8 +17,9 @@
 <div align="center">
   <img width="400" height="338" alt="Untitled" align="left" src="https://github.com/user-attachments/assets/158f73e8-dfbd-439e-a139-a9e7360eda6a" />
   <!-- About Me -->
-<h3 align="left">💫 About Me</h3>
+<h3 align="left"> 
   <p>
+  💫 About Me <br>
   🌱 I am currently learning c++<br>
   🔭 I am 14 year's old developper from israel <br>
   ⚡ Interest in engine dev, game dev, design, 3D design, etc.<br>
@@ -64,7 +65,11 @@
 
 --- 
 
-# 
+## some information about me
+
+<a href="https://steamcommunity.com/profiles/76561199239293994"> <img src="https://img.shields.io/badge/steam-%230078D6.svg?style=for-the-badge&logo=steam&logoColor=white" alt="steam" /> </a>
+
+
 
 </div>
 
