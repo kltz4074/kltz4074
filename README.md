@@ -7,11 +7,6 @@
   <a href="https://github.com/kltz4074" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=kltz4074&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
   
-
-  <!-- Total Stars -->
-  <a href="https://github.com/kltz4074?tab=repositories&sort=stargazers" target="_blank">
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/kltz4074?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
-
   <!-- Followers -->
   <a href="https://github.com/kltz4074?tab=followers" target="_blank">
     <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/kltz4074?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
@@ -66,6 +61,10 @@
   <img src="https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </div>
+
+--- 
+
+# 
 
 </div>
 
