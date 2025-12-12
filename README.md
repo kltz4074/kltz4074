@@ -22,7 +22,7 @@
   💫 About Me <br>
   🌱 I am currently learning c++<br>
   🔭 I am 14 year's old developper from israel <br>
-  ⚡ Interest in engine dev, game dev, design, 3D design, etc.<br>
+  ⚡ Interest in engine dev, design, 3D design, etc.<br>
   🌐 and i have my own website! (link pinned on the left)
 </p>
 
