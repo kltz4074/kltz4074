@@ -1,6 +1,6 @@
 <!-- Profile README for kltz4074 -->
 
-<h1 align="center">Hi , I'm kltz4074</h1>
+<h1 align="center">Hi , I'm kltzqu</h1>
 <div align="center">
   <!-- Profile Views -->
   
@@ -67,7 +67,14 @@
 
 ## some information about me
 
-### i have my [telegram blog](https://t.me/kltzqqu) where i'm posting posts every day about what have i did (it's on russian) 
+#### 📖 my name is eugene
+#### 🌎 i'm living in israel tel-aviv
+#### 🏫 I'm in 8th grade
+
+### ✈️ i have my [telegram blog](https://t.me/kltzqqu) where i'm posting posts every day about what have i did (it's on russian) 
+
+#### discord username: @kltzqu
+#### teleram username: @kltzqu
 
 </div>
 
