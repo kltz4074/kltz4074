@@ -67,9 +67,7 @@
 
 ## some information about me
 
-<a href="https://steamcommunity.com/profiles/76561199239293994"> <img src="https://img.shields.io/badge/steam-%230078D6.svg?style=for-the-badge&logo=steam&logoColor=white" alt="steam" /> </a>
-
-
+### i have my [telegram blog](https://t.me/kltzqqu) where i'm posting posts every day about what have i did (it's on russian) 
 
 </div>
 
