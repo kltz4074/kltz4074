@@ -71,7 +71,7 @@
 #### 🌎 i'm living in israel tel-aviv
 #### 🏫 I'm in 8th grade
 
-### ✈️ i have my [telegram blog](https://t.me/kltzqqu) where i'm posting every day about what have i did (it's on russian) 
+### ✈️ i have my [dev-blog](https://t.me/kltzqqu) where i post every day  (it's on russian) 
 
 #### discord username: @kltzqu
 #### teleram username: @kltzqu
