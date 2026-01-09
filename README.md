@@ -15,16 +15,14 @@
 ---
 
 <div align="center">
-  <img width="400" height="338" alt="Untitled" align="left" src="https://github.com/user-attachments/assets/158f73e8-dfbd-439e-a139-a9e7360eda6a" />
-  <!-- About Me -->
-<h3 align="left"> 
-  <p>
+    <h2>
   💫 About Me <br>
   🌱 I am currently learning c++<br>
-  🔭 I am 14 year's old developper from israel <br>
-  ⚡ Interest in engine dev, design, 3D design, etc.<br>
+  🔭 I am 14 year's old developper from israel<br>
+  ⚡ Interest in engine dev, game dev, design, 3D design, etc...<br>
   🌐 and i have my own website! (link on the left)
-</p>
+</h2>
+<h3 align="left"> 
 
 <h3>💥Connect with Me:</h3>
 <div align="center">
