@@ -17,9 +17,9 @@
 <div align="center">
     <h2>
   💫 About Me <br>
-  🌱 I am currently learning c++<br>
+  🌱 I am currently learning java spring + react <br>
   🔭 I am 14 year's old developper from israel<br>
-  ⚡ Interest in engine dev, game dev, design, 3D design, etc...<br>
+  ⚡ Interest in engine dev, game dev, design, fullstack, etc...<br>
   🌐 languages: russian (main language), english, hebrew (a bit)
 </h2>
 <h3 align="left"> 
