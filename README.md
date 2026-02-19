@@ -70,7 +70,7 @@
 #### 🌎 i'm living in israel tel-aviv
 #### 🏫 I'm in 8th grade
 
-### ✈️ i have dev-blog on [russian](https://t.me/kltzqqu) and [english](https://discord.gg/HXk3JvSn) where i making posts **every single day**
+### ✈️ i have dev-blog on [russian](https://t.me/kltzqqu) where i making posts **every single day**
 
 ### and i have my own [website](https://kltz4074.github.io/)!
 </div>
