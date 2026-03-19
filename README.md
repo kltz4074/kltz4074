@@ -24,7 +24,6 @@
 </h2>
 <h3 align="left"> 
 
-<h3>💥Connect with Me:</h3>
 <div align="center">
   <a href="mailto:kltzqu@gmail.com"><img width="65px" href="my gmail" src="https://github.com/kltz4074/kltz4074/blob/main/icons/email-col.png" alt="Gmail" /></a>
   <a href="https://t.me/+37avYfvL4-I1Y2M0" target="_blank"><img width="57px" src="https://github.com/kltz4074/kltz4074/blob/main/icons/telegram-icon.png" alt="telegram" /></a>
@@ -32,7 +31,7 @@
 
 ---
 
-<h3> ⌛ GitHub stats </h3>
+<h3> </h3>
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false">    <img  alt="kltz4074's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/kltz4074?cardType=github&theme=github-dark&preferLogin=false" /></a> 
     
 ---
