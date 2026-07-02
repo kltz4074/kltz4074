@@ -71,7 +71,7 @@
 
 ### ✈️ i have dev-blog on [russian](https://t.me/kltzqqu) where i making posts **every single day**
 
-### and i have my own [website](https://kltz4074.github.io/)!
+### and i have my own [website](https://kltzqu.lovable.app)!
 </div>
 
 
