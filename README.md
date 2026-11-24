@@ -65,9 +65,8 @@
 
 ## some information about me
 
-#### 📖 my name is eugene
+#### 📖 my name is Eugene
 #### 🌎 i'm living in israel tel-aviv
-#### 🏫 I'm in 8th grade
 
 ### ✈️ i have dev-blog on [russian](https://t.me/kltzqqu) where i making posts **every single day**
 
