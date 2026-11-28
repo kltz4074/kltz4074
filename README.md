@@ -18,7 +18,7 @@
     <h2>
   💫 About Me <br>
   🌱 I am currently working in game dev <br>
-  🔭 I am 14 year's old developper from israel<br>
+  🔭 I am 15 year's old developper from israel<br>
   ⚡ Interested in game dev,engine dev, design, web, etc...<br>
   🌐 languages: russian (main language), english, hebrew (a bit)
 </h2>
